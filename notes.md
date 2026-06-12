@@ -1,0 +1,2 @@
+micrograd: tiny autograd (automatic gradient) engine
+implements backpropogation (algo that allows us to efficiently evaluate the gradient of some kind of loss function wrt the weights of a neural network) -> allows us to iteratively tune the weights of the nn to minimize the loss function and therefore improve accuracy of the nn
